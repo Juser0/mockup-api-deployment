@@ -20,7 +20,7 @@ Mockup API는 구현하는 방법이 다양합니다.
 ### 3. MSW.js
 
 ## References
-https://tech.kakao.com/2021/09/29/mocking-fe/
-https://poiemaweb.com/json-server
-https://redux-advanced.vlpt.us/3/01.html
+https://tech.kakao.com/2021/09/29/mocking-fe/  
+https://poiemaweb.com/json-server  
+https://redux-advanced.vlpt.us/3/01.html  
 https://way-be-developer.tistory.com/239
